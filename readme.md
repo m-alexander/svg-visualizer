@@ -2,7 +2,7 @@
 
 Simple player for soundcloud.com with visualizer
 
-[DEMO]()
+[DEMO](https://m-alexander.github.io/svg-visualizer/)
 
 Used technologies:
 * SVG animation
