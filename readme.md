@@ -7,7 +7,7 @@ Simple player for soundcloud.com with visualizer
 Used technologies:
 * SVG animation
 * Web Audio
-* HTML Custom components
+* HTML Custom elements
 * Soundcloud API
 
 Tested in google chrome only
