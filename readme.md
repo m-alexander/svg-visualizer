@@ -9,3 +9,5 @@ Used technologies:
 * Web Audio
 * HTML Custom components
 * Soundcloud API
+
+Tested in google chrome only
